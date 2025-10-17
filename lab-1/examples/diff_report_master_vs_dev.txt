@@ -1,0 +1,28 @@
+Отчет о различиях между ветками
+
+================================
+Репозиторий:    ssh://git@gitverse.ru:2222/mipt_java/Garage-anisimov.v.s.git
+Ветка 1:        master
+Ветка 2:        dev
+Дата генерации: 2025-10-09 22:33:11
+================================
+
+СПИСОК ИЗМЕНЕННЫХ ФАЙЛОВ:
+A	.gitignore
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle
+A	src/main/java/ru/everlastingeraser/Main.java
+A	src/main/java/ru/everlastingeraser/entities/Car.java
+A	src/main/java/ru/everlastingeraser/entities/Owner.java
+A	src/main/java/ru/everlastingeraser/services/Garage.java
+A	src/main/java/ru/everlastingeraser/services/impl/GarageService.java
+
+СТАТИСТИКА:
+Всего измененных файлов: 12
+Добавлено (A):           12
+Удалено (D):             0
+Изменено (M):            0
