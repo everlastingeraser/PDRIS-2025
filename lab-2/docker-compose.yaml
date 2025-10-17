@@ -48,7 +48,7 @@ services:
 
   app:
     container_name: "app"
-    image: "simple-app:1.0.0"
+    image: "everlastingeraser/simple-app:1.0.0"
     restart: "always"
     ports:
       - "8080:8080"
